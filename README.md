@@ -1,8 +1,8 @@
 ### :wave: Hi there, I'm Nguyen Quang Huy
-- :book: I’m currently studying at Posts and Telecommunications Institute of Technology (PTIT).
+- :book: I’m studying at Posts and Telecommunications Institute of Technology (PTIT).
 - :office: I'm also a Computer Science lecturer at MindX Technology School.
 - :mortar_board: Code: C/C++, Java, Python.
-- :computer: I’m currently learning about AI.
+- :computer: I’m learning about AI.
 - :mega: Currently I am looking for a job related to Machine learning, Deep learning, if possible I want to try Computer Vision.
 ### :mailbox_closed: How to reach me:
  [![Facebook: Nguyen Quang Huy](https://img.shields.io/badge/-Nguyen%20Quang%20Huy-white?logo=Facebook)](https://www.facebook.com/shuttfubbb)
