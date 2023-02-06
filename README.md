@@ -5,6 +5,7 @@
 - :computer: I’m currently learning about AI.
 - :mega: Currently I am looking for a job related to Machine learning, Deep learning, if possible I want to try Computer Vision.
 ### :mailbox_closed: How to reach me:
+ [![Gmail: huynguyenquang640@gmail.com](https://img.shields.io/badge/-Nguy%E1%BB%85n%20Quang%20Huy-white?logo=Gmail)](huynguyenquang640@gmail.com)
  [![Facebook: Nguyen Quang Huy](https://img.shields.io/badge/-Nguyen%20Quang%20Huy-white?logo=Facebook&style=social)](https://www.facebook.com/shuttfubbb)
  [![Instagram: shuttfubbb](https://img.shields.io/badge/-shuttfubbb-white?logo=Instagram)](https://www.instagram.com/shuttfubbb/)
  [![Github: Follow@ngquanghuy](https://img.shields.io/github/followers/huytre123qwe?logo=Github&style=social)]()
